@@ -1,0 +1,72 @@
+.games {
+    position: absolute;
+    top: 120%;
+    left: 37%;
+    font-size: 14px;
+}
+.Java img {
+    width: 200px;
+}
+.earth img {
+    width: 300px;
+}
+.Dungeons img {
+    width: 300px;
+}
+.Pocket img {
+    width: 300px;
+
+}
+.Java h1 {
+    font-size: 21px;
+    position: relative;
+    lefT: -4%;
+}
+.earth h1 {
+    font-size: 21px;
+    position: relative;
+    lefT: 23%;
+}
+.Dungeons h1 {
+    font-size: 21px;
+    position: relative;
+    lefT: 13%;
+}
+.Pocket h1 {
+    font-size: 21px;
+    position: relative;
+    lefT: 7%;
+}
+.Java {
+    position: absolute;
+    left: -170%;
+    width: 300px;
+}
+.Java:hover {
+    color: rgb(14, 15, 14);
+    text-decoration: underline;
+}
+.Pocket:hover {
+    color: rgb(54, 56, 54);
+    text-decoration: underline;
+}
+.Dungeons:hover {
+    color: rgb(54, 56, 54);
+    text-decoration: underline;
+}
+.earth:hover {
+    color: rgb(54, 56, 54);
+    text-decoration: underline;
+}
+.earth {
+    position: absolute;
+    left: -60%;
+}
+.Dungeons {
+    position: absolute;
+    left: 80%;
+}
+.Pocket {
+    position: relative;
+    left: 210%;
+}

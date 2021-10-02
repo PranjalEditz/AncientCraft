@@ -1,0 +1,8 @@
+.heading-hacks {
+    position: absolute;
+    top: 205%;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+ 
+}

@@ -1,0 +1,11 @@
+.noob {
+    position: absolute;
+    top: 5%;
+}
+.sign-up {
+    position: relative;
+    top: 190%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}

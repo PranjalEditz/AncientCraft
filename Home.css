@@ -1,0 +1,337 @@
+.home-logo {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-size: 37px;
+    color: #fff;
+    top: 209.9%;
+    color: #fff;
+    text-shadow: 2px 2px #000;
+}
+.info-web {
+    position: absolute;
+    top: 549%;
+    left: 8%;
+    font-family: 'Poppins', sans-serif;
+    background: #fff;
+    padding: 25px;
+    font-size: 18px;
+    border: 0.4px solid #000;
+    font-weight: 600;
+    border-radius: 6px;
+    text-align: center;
+}
+.pb {
+    position: absolute;
+    top: 2493%;
+    height: 300px;
+    left: 63%;
+}
+.piston-bg {
+    position: absolute;
+    background-image: url('https://www.minecraft.net/content/dam/minecraft/home/bg-lightwool.png');
+    height: 400px;
+    top: 2379%;
+    width: 100%;
+}
+.box-1 {
+    position: absolute;
+    padding: 15px;
+    border: 0.4px solid #000;
+    font-family: 'Poppins', sans-serif;
+    top: 2600%;
+    text-align: center;
+    background: #fff;
+    left: 16%;
+}
+.arrowba {
+    position: absolute;
+    left: 57%;
+    top: 300%;
+}
+.first-home-img {
+    position: absolute;
+    top: 100%;
+    width: 100%;
+    height: auto;
+}
+.minecraft-servers {
+    position: absolute;
+    top: 3690%;
+    background: #fff;
+    text-align: center;
+    border: 0.4px solid #000;
+    font-family: 'Poppins', sans-serif;
+    padding: 15px;
+    left: 11%;
+}
+.lop {
+    position: absolute;
+    top: 3400%;
+    left: 46.9%;
+}
+.bgm {
+    position: absolute;
+    width: 100%;
+    background-image: url('https://cdn130.picsart.com/289701347026201.jpg');
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 3100%;
+
+}
+.jkl {
+    position: absolute;
+    top: 5600%;
+    background-image: url('https://media.discordapp.net/attachments/879610173575036950/879668295563878430/hero-middle.png?width=1348&height=586');
+    width: 100%;
+    height: 600px;
+    left: 0%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.chal {
+    position: absolute;
+    top: 5490%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    left: 0%;
+    background-image: url('https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/servers/hero/hero-clouds.png');
+}
+.nikal {
+    background-image: url('https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/img/servers/hero/hero-front.png');
+    background-size: cover;
+    position: absolute;
+    top: 6100%;  
+    width: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.wah {
+    position: absolute;
+    top: 5100%;
+    background-image: url('https://lh3.googleusercontent.com/HUlj1PBI0tiE9_XQyhpLuQmJ67NKrRLR6R4vEbSjxVuQJIo4_eFPwHZ-b-OPZSgdAeq0HzfsQ_6vVayappEB7g=s400');
+    width: 100%;
+    height: 200px;
+}
+.app-store {
+    position: absolute;
+    top: 5900%; 
+    left: 34%;
+    width: 230px;
+}
+.play-store {
+    position: absolute;
+    top: 5900%; 
+    left: 54%;
+    width: 230px;
+
+}
+.oculus {
+    position: absolute;
+    top: 6070%;
+    width: 120px;
+    left: 37.3%;
+}
+.amazon {
+    position: absolute;
+    top: 6070%;
+    width: 120px;
+    left: 47.3%;
+}
+.microsoft {
+    position: absolute;
+    top: 6070%;
+    width: 120px;
+    left:  57%;
+}
+.about-section {
+    position: absolute;
+    top: 6900%;
+    text-align: center;
+    width: 100%;
+    background: rgb(1, 0, 15);
+    height: 360px;
+    
+}
+.about-logo {
+    color: #Fff;
+    font-family: 'Urbanist', sans-serif;
+    position: relative;
+    transform: translate(-50%, -50%);
+    top: 8%;   
+    left: 50%;
+    font-size: 26px;
+}
+.logo-about {
+    position: absolute;
+    width: 60px;
+    top: 22%;
+    left: 41.5%;
+}
+.about-h2 {
+    position: absolute;
+    color: #fff;
+    font-family: 'Urbanist', sans-serif;
+    top: 26%;
+    left: 47.5%;
+    font-size: 23px;
+
+}
+.about-2 {
+    position: absolute;
+    top: 80%;
+    color: #fff;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 16px;
+    left: 28%;
+}
+.youtube {
+    position: absolute;
+    width: 80px;
+    border-radius: 50%;
+    top: 54%;  
+    left: 27%;
+}
+.twitter {
+    position: absolute;
+    border-radius: 50%;
+    background: blue;
+    padding: 14px;
+    width: 30px;
+    top: 55%;  
+    left: 68%;
+}
+.copyright {
+    position: absolute;
+    color: rgb(226, 225, 225);
+    font-size: 13px;
+    top: 86%;
+    left: 5.3%;
+    font-family: 'Urbanist', sans-serif;
+}
+.address {
+    position: absolute;
+    color: #fff;
+    width: 70px;
+    left: 80%;
+    top: 22%;
+}
+.discord {
+    border-radius: 9px;
+    position: absolute;
+    top: 54.1%;
+    width: 53px;
+    left: 48.1%;
+}
+.faq {
+    color: #fff;
+    position: absolute;
+    left: 10%;
+    font-size: 20px;   
+    top: 15%; 
+    font-family: 'Urbanist', sans-serif;
+}
+.faq:hover {
+    text-decoration: underline;
+}
+.faq-parent {
+    color: #fff;
+
+}
+.ans {
+    color: #fff;
+    font-size: 17px;
+    font-family: 'Urbanist', sans-serif;
+    position: absolute;
+    top: 26%;
+    left: 6.1%;
+}
+.ans:hover {
+    color: rgb(58, 60, 204);
+}
+.discord:hover {
+    box-shadow: 0.2px 0.2px 3px #fff;
+    border-radius: 50%;
+}
+.twitter:hover {
+    box-shadow: 0.2px 0.2px 3px #fff;
+    border-radius: 50%;
+}
+.youtube:hover {
+
+}
+.ans1 {
+    color: #fff;
+    text-decoration: none;
+}
+.ans2 {
+    color: #fff;
+    text-decoration: none;
+}
+.ans3 {
+    color: #fff;
+    text-decoration: none;
+}
+.ans4 {
+    color: #fff;
+    text-decoration: none;
+}
+.ans5 {
+    color: #fff;
+    text-decoration: none;
+}
+.ans6 {
+    color: #fff;
+    text-decoration: none;
+}
+.ans7 {
+    color: #fff;
+    text-decoration: none;
+}
+.ans8 {
+    color: #fff;
+    text-decoration: none;
+}
+.ans1:hover {
+    color: rgb(38, 27, 194);
+    text-decoration: underline;
+}
+.ans2:hover {
+    color: rgb(38, 27, 194);
+    text-decoration: underline;
+}
+.ans3:hover {
+    color: rgb(38, 27, 194);
+    text-decoration: underline;
+}
+.ans4:hover {
+    color: rgb(38, 27, 194);
+    text-decoration: underline;
+}
+.ans5:hover {
+    color: rgb(38, 27, 194);
+    text-decoration: underline;
+}
+.ans6:hover {
+    color: rgb(38, 27, 194);
+    text-decoration: underline;
+}
+.ans7:hover {
+    color: rgb(38, 27, 194);
+    text-decoration: underline;
+}
+.ans8:hover {
+    color: rgb(38, 27, 194);
+    text-decoration: underline;
+}
+.about-h2:hover {
+    color: rgb(129, 125, 125);
+}
+.copyright:hover {
+    color: rgb(185, 180, 180);
+}

@@ -1,0 +1,559 @@
+.guide-heading {
+    font-family: 'Barlow', sans-serif;
+    position: absolute;
+    top: 230%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.f-img {
+    position: absolute;
+    top: 390%;
+    left: 41%;
+    width: 800px;
+    border-radius: 3px;
+}
+.f-info {
+    position: absolute;
+    top: 408.9%;
+    padding: 10px;
+    text-align: center;
+    border-radius: 2px;
+    background: rgb(231, 230, 230);
+    font-family: 'Barlow', sans-serif;
+    font-size: 17px;
+    width: 430px;
+    left: 7%;
+}
+.h2 {
+    position: absolute;
+    font-family: 'Barlow', sans-serif;
+    top: 1400%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sec-img {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 3px;
+    top: 1900%;
+    width: 500px;
+}
+.then {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 2300%;
+    text-align: center;
+}
+.pickaxe {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 2770%;
+    width: 500px;
+}
+.sw {
+    position: absolute;
+    top: 3330%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+}
+.o {
+    position: absolute;
+    top: 3750%;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 600;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.dee {
+    position: absolute;
+    font-family: 'Barlow', sans-serif;
+    top: 3950%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.deee {
+    position: absolute;
+    top: 4300%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+}
+.deeee {
+    position: absolute;
+    width: 500px;
+    top: 5200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.clay-info {
+    position: absolute;
+    font-family: 'Barlow', sans-serif;
+    top: 4700%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    
+}
+.coal-info {
+    position: absolute;
+    top: 5600%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow', sans-serif;
+    width: 500px;
+}
+.house-h1 {
+    position: absolute;
+    top: 5880%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.house-img {
+    width: 500px;
+    position: absolute;
+    top: 6300%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.houses-videos {
+    position: absolute;
+    top: 6990%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.video-wo {
+    position: absolute;
+    top: 7700%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.farm-h1 {
+    position: absolute;
+    top: 8200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow', sans-serif;
+    
+}
+.pig-farm {
+    position: absolute;
+    width: 500px;
+    top: 8700%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sheep-farm {
+    position: absolute;
+    width: 500px;
+    top: 9500%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.chicken-farm {
+    position: absolute;
+    width: 400px;
+    top: 10200%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.cow-farm { 
+    position: absolute;
+    width: 500px;
+    top: 10900%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+img {
+    border-radius: 2px;
+}
+.mining-h1 {
+    position: absolute;
+    top: 11400%;
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+    transform: translate(-50%, -50%);
+}
+.mining-iron {
+    position: absolute;
+    top: 11900%;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.mining-lapiz {
+    position: absolute;
+    top: 12700%;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.mining-diamond {
+    position: absolute;
+    top: 12700%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+}
+.diamonds-video {
+    position: absolute;
+    top: 13500%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.diamond-video-two {
+    position: absolute;
+    top: 14300%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.armor-h1 {
+    position: absolute;
+    top: 14800%;
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+    transform: translate(-50%, -50%);
+}
+.armor-recipe {
+    position: absolute;
+    top: 15400%;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.diamond-pants {
+    position: absolute;
+    top: 16150%;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.diamond-helmet {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    top: 16860%;
+}
+.diamond-axe {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    top: 17700%;
+}
+.diamond-sword {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 500px;
+    top: 18600%;
+}
+.diamond-boots {
+    position: absolute;
+    left: 33.9%;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 20300%;
+}
+.recipes-ad {
+    position: absolute;
+    color: #fff;
+    font-family: 'Urbanist', sans-serif;
+    background: rgb(26 115 232);
+    border-radius: 4px;
+    padding: 12px 30px;
+    transition: 0.6s;
+    top: 19060%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    font-weight: 550;
+}
+.recipes-ad:hover {
+    color: rgb(228, 224, 224);
+    text-decoration: underline;
+}
+.trading-start {
+    position: absolute;
+    top: 19200%;
+    font-family: 'Barlow', sans-serif;
+    left: 36%;
+}
+body {
+    width: 100%;
+    height: 30000%;
+    margin: 0%;;
+}
+.village-png {
+    position: absolute;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 19600%;    
+}
+.villager-emeralds {
+    position: absolute;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 21300%;    
+}
+.librarian-trading {
+    position: absolute;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 22500%;    
+}
+.all-villager-types {
+    position: absolute;
+    width: 500px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 23200%;    
+}
+.librarian-text {
+    position: absolute;
+    top: 22000%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow', sans-serif;
+}
+.enchanting-armor {
+    position: absolute;
+    top: 23640%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow', sans-serif;
+}
+.enchating-chestplate {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    width: 500px;
+    top: 24150%;
+}
+.debris-heading {
+    position: absolute;
+    left: 50%;
+    top: 24660%;
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow', sans-serif;
+}
+.debris-info {
+    position: absolute;
+    left: 50%;
+    top: 25800%;
+    width: 500px;
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow', sans-serif;
+}
+.debris-img {
+    position: absolute;
+    left: 50%;
+    top: 25200%;
+    width: 400px;
+    transform: translate(-50%, -50%);
+}
+.debris-2 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 26200%;
+    width: 500px;
+}
+.debris-video-1 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 27000%;
+}
+.debris-video-2 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 27800%;    
+}
+.debris-upgrade {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 28400%;    
+    font-family: 'Barlow', sans-serif;
+}
+.upgrading-img-1 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 29000%;
+    width: 500px;
+}
+.sword-nethrite {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 29800%;
+    width: 500px;
+}
+.chestplate-netherite {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 30600%;
+    width: 500px;
+}
+.also-nethrite {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 31000%;    
+    font-family: 'Barlow', sans-serif;
+}
+.ingot-recipe {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 31500%;
+    width: 500px;
+}
+.also-scrap {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 32050%;    
+    font-family: 'Barlow', sans-serif;
+}
+.smelting-debris {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 32600%;
+    width: 500px;
+}
+.weither-ad {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 33250%;    
+    font-family: 'Barlow', sans-serif;
+}
+.weither-skeleton {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 33800%;
+    width: 500px;
+}
+.skeleton-text {
+    position: absolute;
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+    transform: translate(-50%, -50%);
+    top: 34200%;
+    width: 500px;
+}
+.weither-head-intro {
+    position: absolute;
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+    transform: translate(-50%, -50%);
+    top: 34600%;
+    width: 500px;
+}
+.wither-skeleton-head {
+    position: absolute;
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+    transform: translate(-50%, -50%);
+    top: 35100%;
+}
+.wither-video {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 36300%;
+    width: 500px;
+}
+.recipe-wither {
+    position: absolute;
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+    transform: translate(-50%, -50%);
+    top: 35700%;
+}
+.fight-wither {
+    position: absolute;
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+    transform: translate(-50%, -50%);
+    top: 36700%;
+}
+.wither-img {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 37300%;
+    width: 500px;
+}
+.wither-star-h1 {
+    position: absolute;
+    left: 50%;
+    font-family: 'Barlow', sans-serif;
+    transform: translate(-50%, -50%);
+    top: 38100%;
+}
+.star-img {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 38490%;
+    width: 300px;
+}
+.rose-h1 {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 38990%;
+}
+.rose-img {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    top: 39290%;
+    width: 300px;
+}
+.beacon-ad {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 40000%;
+    left: 50%
+}
+.beacon {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 40300%;
+    left: 50%;
+}
+.beacon-end {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow', sans-serif;
+    top: 40700%;
+    left: 50%;
+    width: 500px;
+}
+.soon {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    font-family: 'Barlow', sans-serif;
+    top: 40900%;
+    left: 50%;
+    width: 500px;
+
+}
