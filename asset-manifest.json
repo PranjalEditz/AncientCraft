@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ancient-Craft.git/static/css/main.1932b2a1.chunk.css",
+    "main.js": "/Ancient-Craft.git/static/js/main.ca2344b6.chunk.js",
+    "main.js.map": "/Ancient-Craft.git/static/js/main.ca2344b6.chunk.js.map",
+    "runtime-main.js": "/Ancient-Craft.git/static/js/runtime-main.a0232167.js",
+    "runtime-main.js.map": "/Ancient-Craft.git/static/js/runtime-main.a0232167.js.map",
+    "static/js/2.1d7e5baa.chunk.js": "/Ancient-Craft.git/static/js/2.1d7e5baa.chunk.js",
+    "static/js/2.1d7e5baa.chunk.js.map": "/Ancient-Craft.git/static/js/2.1d7e5baa.chunk.js.map",
+    "static/js/3.7dae85eb.chunk.js": "/Ancient-Craft.git/static/js/3.7dae85eb.chunk.js",
+    "static/js/3.7dae85eb.chunk.js.map": "/Ancient-Craft.git/static/js/3.7dae85eb.chunk.js.map",
+    "index.html": "/Ancient-Craft.git/index.html",
+    "static/css/main.1932b2a1.chunk.css.map": "/Ancient-Craft.git/static/css/main.1932b2a1.chunk.css.map",
+    "static/js/2.1d7e5baa.chunk.js.LICENSE.txt": "/Ancient-Craft.git/static/js/2.1d7e5baa.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Ancient-Craft.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0232167.js",
+    "static/js/2.1d7e5baa.chunk.js",
+    "static/css/main.1932b2a1.chunk.css",
+    "static/js/main.ca2344b6.chunk.js"
+  ]
+}
